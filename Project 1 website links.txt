@@ -1,0 +1,5 @@
+my S3 bucket static website link
+http://my-207693596257-bucket.s3-website-us-east-1.amazonaws.com/
+
+my CDN website link
+https://d3k0t0wmkjfhpa.cloudfront.net/
